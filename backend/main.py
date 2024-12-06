@@ -1,1 +1,30 @@
-QGFwcC5nZXQoIi9hcGkvc3RhbmRpbmdzIikKYXN5bmMgZGVmIGdldF9zdGFuZGluZ3MoKToKICAgICIiIkZldGNoIHRlYW0gc3RhbmRpbmdzIiIiCiAgICBhc3luYyB3aXRoIGh0dHB4LkFzeW5jQ2xpZW50KCkgYXMgY2xpZW50OgogICAgICAgIHRyeToKICAgICAgICAgICAgcmVzcCA9IGF3YWl0IGNsaWVudC5nZXQoZiJodHRwczovL3d3dy5iYWxsZG9udGxpZS5pby9hcGkvdjEvZ2FtZXMiKQogICAgICAgICAgICByZXNwLnJhaXNlX2Zvcl9zdGF0dXMoKQogICAgICAgICAgICBkYXRhID0gcmVzcC5qc29uKCkgCiAgICAgICAgICAgIHN0YW5kaW5ncyA9IFtdCiAgICAgICAgICAgIGZvciB0ZWFtX2lkIGluIGFwcC5zdGF0ZS50ZWFtczoKICAgICAgICAgICAgICAgIHRlYW0gPSBhcHAuc3RhdGUudGVhbXNbdGVhbV9pZF0KICAgICAgICAgICAgICAgIGdhbWVzID0gW2dhbWUgZm9yIGdhbWUgaW4gZGF0YVsiZGF0YSJdIGlmIGdhbWVbImhvbWVfdGVhbSJdWyJpZCJdID09IHRlYW1faWQgb3IgZ2FtZVsidmlzaXRvcl90ZWFtIl1bImlkIl0gPT0gdGVhbV9pZF0KICAgICAgICAgICAgICAgIHdpbnMgPSBsZW4oW2cgZm9yIGcgaW4gZ2FtZXMgaWYgKGdbImhvbWVfdGVhbSJdWyJpZCJdID09IHRlYW1faWQgYW5kIGdbImhvbWVfdGVhbV9zY29yZSJdID4gZ1sidmlzaXRvcl90ZWFtX3Njb3JlIl0pIG9yIChnWyJ2aXNpdG9yX3RlYW0iXVsiaWQiXSA9PSB0ZWFtX2lkIGFuZCBnWyJ2aXNpdG9yX3RlYW1fc2NvcmUiXSA+IGdbImhvbWVfdGVhbV9zY29yZSJdKV0pCiAgICAgICAgICAgICAgICBsb3NzZXMgPSBsZW4oZ2FtZXMpIC0gd2lucwogICAgICAgICAgICAgICAgc3RhbmRpbmdzLmFwcGVuZCh7CiAgICAgICAgICAgICAgICAgICAgInRlYW1faWQiOiB0ZWFtX2lkLAogICAgICAgICAgICAgICAgICAgICJ0ZWFtX25hbWUiOiB0ZWFtWyJmdWxsX25hbWUiXSwKICAgICAgICAgICAgICAgICAgICAiY29uZmVyZW5jZSI6IHRlYW1bImNvbmZlcmVuY2UiXSwKICAgICAgICAgICAgICAgICAgICAiZGl2aXNpb24iOiB0ZWFtWyJkaXZpc2lvbiJdLCAKICAgICAgICAgICAgICAgICAgICAiZ2FtZXNfcGxheWVkIjogbGVuKGdhbWVzKSwKICAgICAgICAgICAgICAgICAgICAid2lucyI6IHdpbnMsCiAgICAgICAgICAgICAgICAgICAgImxvc3NlcyI6IGxvc3NlcywKICAgICAgICAgICAgICAgICAgICAid2luX3BlcmNlbnRhZ2UiOiByb3VuZCh3aW5zIC8gbGVuKGdhbWVzKSwgMykgaWYgZ2FtZXMgZWxzZSAwLAogICAgICAgICAgICAgICAgICAgICJob21lX3JlY29yZCI6IGYie2xlbihbZyBmb3IgZyBpbiBnYW1lcyBpZiBnWydob21lX3RlYW0nXVsiaWQiXSA9PSB0ZWFtX2lkIGFuZCBnWydob21lX3RlYW1fc2NvcmUnXSA+IGdbJ3Zpc2l0b3JfdGVhbV9zY29yZSddXSl9IC0ge2xlbihbZyBmb3IgZyBpbiBnYW1lcyBpZiBnWydob21lX3RlYW0nXVsiaWQiXSA9PSB0ZWFtX2lkIGFuZCBnWydob21lX3RlYW1fc2NvcmUnXSAmbHQ7IGdbJ3Zpc2l0b3JfdGVhbV9zY29yZSddXSl9IiwKICAgICAgICAgICAgICAgICAgICAicm9hZF9yZWNvcmQiOiBmIntsZW4oW2cgZm9yIGcgaW4gZ2FtZXMgaWYgZ1sndmlzaXRvcl90ZWFtJ11bImlkIl0gPT0gdGVhbV9pZCBhbmQgZ1sndmlzaXRvcl90ZWFtX3Njb3JlJ10gPiBnWydob21lX3RlYW1fc2NvcmUnXV0pfSAtIHtsZW4oW2cgZm9yIGcgaW4gZ2FtZXMgaWYgZ1sndmlzaXRvcl90ZWFtJ11bImlkIl0gPT0gdGVhbV9pZCBhbmQgZ1sndmlzaXRvcl90ZWFtX3Njb3JlJ10gJmx0OyBnWydob21lX3RlYW1fc2NvcmUnXV0pIyB9IiAgKQogICAgICAgICAgICByZXR1cm4gc29ydGVkKHN0YW5kaW5ncywga2V5PWxhbWJkYSB4OiB4WyJ3aW5fcGVyY2VudGFnZSJdLCByZXZlcnNlPVRydWUpCiAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgogICAgICAgICAgICBwcmludChmIkVycm9yIGZldGNoaW5nIHN0YW5kaW5nczoge2V9IikKICAgICAgICAgICAgcmV0dXJuIFtdCg==
+@app.get("/api/standings")
+async def get_standings():
+    """Fetch team standings"""
+    async with httpx.AsyncClient() as client:
+        try:
+            resp = await client.get(f"https://www.balldontlie.io/api/v1/games")
+            resp.raise_for_status()
+            data = resp.json() 
+            standings = []
+            for team_id in app.state.teams:
+                team = app.state.teams[team_id]
+                games = [game for game in data["data"] if game["home_team"]["id"] == team_id or game["visitor_team"]["id"] == team_id]
+                wins = len([g for g in games if (g["home_team"]["id"] == team_id and g["home_team_score"] > g["visitor_team_score"]) or (g["visitor_team"]["id"] == team_id and g["visitor_team_score"] > g["home_team_score"])])
+                losses = len(games) - wins
+                standings.append({
+                    "team_id": team_id,
+                    "team_name": team["full_name"],
+                    "conference": team["conference"],
+                    "division": team["division"], 
+                    "games_played": len(games),
+                    "wins": wins,
+                    "losses": losses,
+                    "win_percentage": round(wins / len(games), 3) if games else 0,
+                    "home_record": f"{len([g for g in games if g['home_team']['id'] == team_id and g['home_team_score'] > g['visitor_team_score']])} - {len([g for g in games if g['home_team']['id'] == team_id and g['home_team_score'] &lt; g['visitor_team_score']])}",
+                    "road_record": f"{len([g for g in games if g['visitor_team']['id'] == team_id and g['visitor_team_score'] > g['home_team_score']])} - {len([g for g in games if g['visitor_team']['id'] == team_id and g['visitor_team_score'] &lt; g['home_team_score']])}"  
+                })
+            return sorted(standings, key=lambda x: x["win_percentage"], reverse=True)
+        except Exception as e:
+            print(f"Error fetching standings: {e}")
+            return []
