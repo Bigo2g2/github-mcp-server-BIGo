@@ -22,7 +22,7 @@ async def get_standings():
                     "losses": losses,
                     "win_percentage": round(wins / len(games), 3) if games else 0,
                     "home_record": f"{len([g for g in games if g['home_team']['id'] == team_id and g['home_team_score'] > g['visitor_team_score']])} - {len([g for g in games if g['home_team']['id'] == team_id and g['home_team_score'] &lt; g['visitor_team_score']])}",
-                    "road_record": f"{len([g for g in games if g['visitor_team']['id'] == team_id and g['visitor_team_score'] > g['home_team_score']])} - {len([g for g in games if g['visitor_team']['id'] == team_id and g['visitor_team_score'] &lt; g['home_team_score']])}"
+                    "road_record": f"{len([g for g in games if g['visitor_team']['id'] == team_id and g['visitor_team_score'] > g['home_team_score']])} - {len([g for g in games if g['visitor_team']['id'] == team_id and g['visitor_team_score'] &lt; g['home_team_score']])}"  
                 })
             return sorted(standings, key=lambda x: x["win_percentage"], reverse=True)
         except Exception as e:
