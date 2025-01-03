@@ -1,4 +1,3 @@
-// Middleware to validate required environment variables
 const validateEnv = () => {
   const requiredEnvVars = [
     'JWT_SECRET',
